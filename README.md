@@ -1,6 +1,6 @@
 # Social Sales Forecast: Improving Social Network Ads
 
-#AUTHOR: MANAI MORTADHA
+# AUTHOR: MANAI MORTADHA
 
 ## Overview
 
